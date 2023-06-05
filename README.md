@@ -2,7 +2,7 @@
 - 👀 I’m interested in games in general and photography. 
 - 🌱 I’m currently learning Java and JavaScript.
 - 💞️ I’m looking to collaborate on some small projects since i'm still on my College course.
-- 📫 Hit me up on Instagram @aglassofcoke or on twitter @leicaloser
+- 📫 Hit me up on Instagram @aglassofcoke || @leicaloserr or on twitter @leicaloser
 
 <!---
 glassofcoke/glassofcoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
