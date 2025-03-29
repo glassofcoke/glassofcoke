@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @glassofcoke or João 'John' Marcos. I'm 31 YO and i'm from Fortaleza, Brazil.
+- 👋 Hi, I’m @glassofcoke or João 'John' Marcos. I'm 32 YO and i'm from Fortaleza, Brazil.
 - 👀 I’m interested in games in general and photography. 
-- 🌱 I’m currently learning Java and JavaScript.
+- 🌱 I’m currently learning Java, JavaScript and python.
 - 💞️ I’m looking to collaborate on some small projects since i'm still on my College course.
-- 📫 Hit me up on Instagram @aglassofcoke || @leicaloserr or on twitter @leicaloser
+- 📫 Hit me up on Instagram @aglassovcoke.
 
 <!---
 glassofcoke/glassofcoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
